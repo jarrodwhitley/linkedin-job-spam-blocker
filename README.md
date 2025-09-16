@@ -18,13 +18,14 @@ This script automatically removes job cards from companies you specify, keeping 
 ## Installation
 
 1. Install a Userscript manager extension:
-   - [Tampermonkey](https://www.tampermonkey.net/) (recommended)  
+   - [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) (Safari only)
+   - [Tampermonkey](https://www.tampermonkey.net/)
    - [Violentmonkey](https://violentmonkey.github.io/)  
    - [Greasemonkey](https://www.greasespot.net/)
 
-2. Create a new script and paste in the contents of `linkedin-job-spam-blocker.user.js`.
+3. Create a new script and paste in the contents of `linkedin-job-spam-blocker.user.js`.
 
-3. Save the script.  
+4. Save the script.  
    It will now run automatically whenever you visit LinkedIn job pages.
 
 ---
