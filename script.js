@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Linkedin Job Spam Blocker (Original)
+// @name        Linkedin Job Spam Blocker
 // @description Hide job listings from banned companies
 // @version      1.0.0
 // @match       *://*.linkedin.com/jobs/*
