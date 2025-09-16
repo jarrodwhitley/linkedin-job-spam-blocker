@@ -23,7 +23,7 @@ This script automatically removes job cards from companies you specify, keeping 
    - [Violentmonkey](https://violentmonkey.github.io/)  
    - [Greasemonkey](https://www.greasespot.net/)
 
-3. Create a new script and paste in the contents of `linkedin-job-spam-blocker.user.js`.
+3. Create a new script and paste in the contents of `script.js`.
 
 4. Save the script.  
    It will now run automatically whenever you visit LinkedIn job pages.
